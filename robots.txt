@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-27bt7e.1casino.co.nz/sitemap.xml
